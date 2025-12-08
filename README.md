@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">👋 Hi, I'm a frontend developer specializing in Vue.js with 1 year of hands-on experience.<br>🔧 I craft interactive user interfaces, implement state management solutions, and ensure cross-browser compatibility.<br>🚀 My stack revolves around Vue 3 (Composition API), Pinia for state, Vue Router, and I build with Vite for optimal performance.<br>💡 Constantly expanding my knowledge — currently diving deeper into Vue's reactivity system.<br><br><br>🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️</h4>
+<h4 align="left">👋 Hi, I'm a frontend developer specializing in Vue.js with 1 year of hands-on experience.<br>🔧 I craft interactive user interfaces, implement state management solutions, and ensure cross-browser compatibility.<br>🚀 My stack revolves around Vue 3 (Composition API), Pinia for state, Vue Router, and I build with Vite for optimal performance.<br>💡 Constantly expanding my knowledge — currently diving deeper into Vue's reactivity system.<br><br><br>🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️🕸️</h4>
 
 ###
 
